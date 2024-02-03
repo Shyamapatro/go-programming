@@ -22,3 +22,6 @@ func main() {
     logger.Println("This is an", errorLogger("error"), "message.")
 	println(uuid.New().String())
 }
+//steps to get thrid party packages
+// go mod init myproject
+
