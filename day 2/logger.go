@@ -24,4 +24,4 @@ func main() {
 }
 //steps to get thrid party packages
 // go mod init myproject
-
+//go get github.com/fatih/color
